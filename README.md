@@ -118,7 +118,7 @@ Additional functionality is also wrapped inside.
 available to plot `{ no | Poisson | one-sided | two-sided }` errors.
 - `density=True` show density
 - `weights`
-- `histype={'step' | 'fill'}`
+- `histtype={'step' | 'fill'}`
 - `edges` when plotting with `'step'` close the shape outside
 
 An effort has been made to provide API as close as possible to `plt.hist()`
